@@ -34,7 +34,7 @@ extern const uint8_t whoosh_wav_end[]   asm("_binary_whoosh_wav_end");
 //in the code.
 #define NO_STARTH 400
 #define NO_STARTM 420
-#define NO_STARTL 440
+#define NO_STARTL 400
 
 //Menu options: first one is start, second one is exit.
 #define MENU_OPT_START 0
